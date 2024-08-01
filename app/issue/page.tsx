@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function page() {
+export default function IssuePage() {
   return (
     <div>
         <h2>Issue page</h2>
